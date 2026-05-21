@@ -40,4 +40,4 @@
 * **Languages:** TypeScript, Python, Shell scripting, JavaScript
 * **Domains:** AI Agent architectures, software automation, selective fintech work, Web Extensions
 
-📬 **Let's Connect:** [LinkedIn](https://linkedin.com/in/nkanakia) | [X (Twitter)](https://x.com/nkanakia) | Substack
+📬 **Let's Connect:** [LinkedIn](https://linkedin.com/in/nkanakia) | [X (Twitter)](https://x.com/nkanakia) | [Substack](https://tattwamasi.substack.com/)
