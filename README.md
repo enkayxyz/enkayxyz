@@ -2,6 +2,8 @@
 **AI-First Engineer & Founder** | I build practical AI tools, automation, and software that ships.
 
 > I wear many hats — mostly in tech, with a bit of financial thinking on the side.
+>
+> Currently prototyping WikiMaker — a local-first personal wiki for bills, WhatsApp, and source docs, inspired by Andrej Karpathy's writing on personal knowledge tools.
 
 ---
 
