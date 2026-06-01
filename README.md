@@ -215,4 +215,4 @@ Some worked. Most didn't. All of them taught me something.
 
 ---
 
-*Edison, NJ · nirav@kanakia.org · [banqer.ai](https://banqer.ai) · [linkedin.com/in/nkanakia](https://linkedin.com/in/nkanakia)*
+* [banqer.ai](https://banqer.ai) · [linkedin.com/in/nkanakia](https://linkedin.com/in/nkanakia)*
