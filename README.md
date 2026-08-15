@@ -37,7 +37,7 @@ Infrastructure, protocols, and tools for a world where AI agents handle your mon
 | Repo | What it is | Visibility | Status |
 |---|---|---|---|
 | [banqer-ai-website](https://github.com/enkayxyz/banqer-ai-website) | AI CFO copilot — measures ROI in 3D: money, opportunity cost, time | 🔒 | 🟢 Active |
-| [Credain/neo](https://github.com/Credain/neo) | FX netting engine — DTN™ algorithm, graph-theory loop detection, patent pending. **It worked.** Core IP acquired by Banqer. Parts being open-sourced. | 🔒 | ✅ Exit → Banqer |
+| [Credain/neo](https://github.com/Credain/neo) | FX netting engine. **It worked.** Parts being open-sourced. | 🔒 | ✅ Exit → Banqer |
 | [rishika](https://github.com/enkayxyz/rishika) | AI CFO copilot v1 — evolved into Banqer | 🔒 | 🔵 Merged → Banqer |
 | [Credain/rishika-backend](https://github.com/Credain/rishika-backend) | Backend for Rishika/Banqer | 🔒 | 🟢 Active |
 | [k-0](https://github.com/enkayxyz/k-0) | AI-native P2P payments on stablecoin rails | 🔒 | 🟡 Prototype |
